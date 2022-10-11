@@ -1,5 +1,5 @@
 ---
-id: <Canvas quiz id>
+id: 38304
 course_id: 5935
 repo: python-p3-quiz-configuring-python-applications
 ---
